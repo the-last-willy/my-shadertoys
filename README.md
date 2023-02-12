@@ -11,7 +11,7 @@ Some of them are unlisted.
 [(source)](scene)
 [(shadertoy)](https://www.shadertoy.com/view/NdcyDM)
 
-Made within a single day for a special occasion ;)
+Made within a single day to apply for a job (got the job!).
 
 ![image](https://user-images.githubusercontent.com/84744335/179585724-6f3da488-0b6b-437a-a74e-def388e55aea.png)
 
